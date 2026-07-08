@@ -8,9 +8,7 @@
 
 <br/>
 
-```bash
-ayush@systems:~$ whoami
-```
+**`ayush@systems:~$ whoami`**
 
 - Software Engineer, recent CS grad (Maharaja Agrasen Institute of Technology, '25)
 - Currently a **Business Technology Analyst @ Deloitte** — building internal automation/data-processing tools
@@ -20,9 +18,7 @@ ayush@systems:~$ whoami
 
 <br/>
 
-```bash
-ayush@systems:~$ cat currently.md
-```
+**`ayush@systems:~$ cat currently.md`**
 
 - 🔭 Building out DevMind's cloud deployment (FastAPI, AWS Lambda, Supabase pgvector)
 - 📊 Running real evaluation numbers against a PR test set
@@ -45,7 +41,7 @@ ayush@systems:~$ cat currently.md
 **AI / Agentic Systems**
 
 <img src="https://cdn.simpleicons.org/langchain" width="32" height="32" alt="LangChain" />
-<img src="https://img.shields.io/badge/-Groq-0d1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCIgaGVpZ2h0PSIxZW0iIHN0eWxlPSJmbGV4Om5vbmU7bGluZS1oZWlnaHQ6MSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMWVtIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5Hcm9xPC90aXRsZT48cGF0aCBkPSJNMTIuMDM2IDJjLTMuODUzLS4wMzUtNyAzLTcuMDM2IDYuNzgxLS4wMzUgMy43ODIgMy4wNTUgNi44NzIgNi45MDggNi45MDdoMi40MnYtMi41NjZoLTIuMjkyYy0yLjQwNy4wMjgtNC4zOC0xLjg2Ni00LjQwOC00LjIzLS4wMjktMi4zNjIgMS45MDEtNC4yOTggNC4zMDgtNC4zMjZoLjFjMi40MDcgMCA0LjM1OCAxLjkxNSA0LjM2NSA0LjI3OHY2LjMwNWMwIDIuMzQyLTEuOTQ0IDQuMjUtNC4zMjMgNC4yNzlhNC4zNzUgNC4zNzUgMCAwMS0zLjAzMy0xLjI1MmwtMS44NTEgMS44MThBNyA3IDAgMDAxMi4wMjkgMjJoLjA5MmMzLjgwMy0uMDU2IDYuODU4LTMuMDgzIDYuODc5LTYuODE2di02LjVDMTguOTA3IDQuOTYzIDE1LjgxNyAyIDEyLjAzNiAyeiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&logoColor=white" height="32" alt="Groq" />
+<img src="https://img.shields.io/badge/-Groq-0d1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHNoYXBlLXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIiB0ZXh0LXJlbmRlcmluZz0iZ2VvbWV0cmljUHJlY2lzaW9uIiBpbWFnZS1yZW5kZXJpbmc9Im9wdGltaXplUXVhbGl0eSIgZmlsbC1ydWxlPSJldmVub2RkIiBjbGlwLXJ1bGU9ImV2ZW5vZGQiIHZpZXdCb3g9IjAgMCA1MTIgNTA5LjY0MSI%2BPHBhdGggZD0iTTExNS42MTIgMGgyODAuNzc2QzQ1OS45NzUgMCA1MTIgNTIuMDI2IDUxMiAxMTUuNjEydjI3OC40MTZjMCA2My41ODctNTIuMDI1IDExNS42MTMtMTE1LjYxMiAxMTUuNjEzSDExNS42MTJDNTIuMDI2IDUwOS42NDEgMCA0NTcuNjE1IDAgMzk0LjAyOFYxMTUuNjEyQzAgNTIuMDI2IDUyLjAyNiAwIDExNS42MTIgMHoiLz48cGF0aCBmaWxsPSIjZmZmIiBkPSJNMjEzLjIzNSAzMDYuMDE5bDE3OC45NzYtMTgwLjAwMnYuMTY5bDUxLjY5NS01MS43NjNjLS45MjQgMS4zMi0xLjg2IDIuNjA1LTIuNzg1IDMuODktMzkuMjgxIDU0LjE2NC01OC40NiA4MC42NDktNDMuMDcgMTQ2LjkyMmwtLjA5LS4xMDFjMTAuNjEgNDUuMTEtLjc0NCA5NS4xMzctMzcuMzk4IDEzMS44MzYtNDYuMjE2IDQ2LjMwNi0xMjAuMTY3IDU2LjYxMS0xODEuMDYzIDE0LjkyOGw0Mi40NjItMTkuNjc1YzM4Ljg2MyAxNS4yNzggODEuMzkyIDguNTcgMTExLjk0Ny0yMi4wMyAzMC41NjYtMzAuNiAzNy40MzItNzUuMTU5IDIyLjA2NS0xMTIuMjUyLTIuOTItNy4wMjUtMTEuNjctOC43OTUtMTcuNzkyLTQuMjYzbC0xMjQuOTQ3IDkyLjM0MXptLTI1Ljc4NiAyMi40MzdsLS4wMzMuMDM0TDY4LjA5NCA0MzUuMjE3YzcuNTY1LTEwLjQyOSAxNi45NTctMjAuMjk0IDI2LjMyNy0zMC4xNDkgMjYuNDI4LTI3LjgwMyA1Mi42NTMtNTUuMzU5IDM2LjY1NC05NC4zMDItMjEuNDIyLTUyLjExMi04Ljk1Mi0xMTMuMTc3IDMwLjcyNC0xNTIuODk4IDQxLjI0My00MS4yNTQgMTAxLjk4LTUxLjY2MSAxNTIuNzA2LTMwLjc1OCAxMS4yMyA0LjE3MiAyMS4wMTYgMTAuMTE0IDI4LjYzOCAxNS42MzlsLTQyLjM1OSAxOS41ODRjLTM5LjQ0LTE2LjU2My04NC42MjktNS4yOTktMTEyLjIwNyAyMi4zMTMtMzcuMjk4IDM3LjMwOC00NC44NCAxMDIuMDAzLTEuMTI4IDE0My44MXoiLz48L3N2Zz4K" height="32" alt="Groq" />
 <img src="https://cdn.simpleicons.org/claude" width="32" height="32" alt="Claude" />
 
 <br/>
