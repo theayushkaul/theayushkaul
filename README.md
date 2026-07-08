@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a3a1a&height=120&section=header&text=&fontColor=39FF14" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Backend+%26+AI+Systems+Engineer;Building+DevMind+%E2%80%94+an+AI+code+review+agent;LangGraph+%2F+RAG+%2F+Distributed+Systems;Currently%3A+Business+Technology+Analyst+%40+Deloitte" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=39FF14&center=true&vCenter=true&width=800&lines=Software+Engineer;Building+DevMind+%E2%80%94+an+AI+code+review+agent;LangGraph+%2F+RAG+%2F+Distributed+Systems;Currently%3A+Business+Technology+Analyst+%40+Deloitte" alt="Typing SVG" />
 
 </div>
 
@@ -12,7 +12,7 @@
 ayush@systems:~$ whoami
 ```
 
-- Backend & AI systems engineer, recent CS grad (Maharaja Agrasen Institute of Technology, '25)
+- Software Engineer, recent CS grad (Maharaja Agrasen Institute of Technology, '25)
 - Currently a **Business Technology Analyst @ Deloitte** — building internal automation/data-processing tools
 - Building **DevMind**, an AI-powered GitHub code review agent (LangChain/LangGraph, Groq qwen-2.5-coder-32B) — ongoing
 - 380+ problems solved on LeetCode — strongest in DP, Trees, Graphs
@@ -44,9 +44,9 @@ ayush@systems:~$ cat currently.md
 
 **AI / Agentic Systems**
 
-<img src="https://cdn.simpleicons.org/langchain/39FF14" width="32" height="32" alt="LangChain" />
-<img src="data:image/svg+xml;base64,PHN2ZyBmaWxsPSIjMzlGRjE0IiBmaWxsLXJ1bGU9ImV2ZW5vZGQiIGhlaWdodD0iMWVtIiBzdHlsZT0iZmxleDpub25lO2xpbmUtaGVpZ2h0OjEiIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjFlbSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+R3JvcTwvdGl0bGU+PHBhdGggZD0iTTEyLjAzNiAyYy0zLjg1My0uMDM1LTcgMy03LjAzNiA2Ljc4MS0uMDM1IDMuNzgyIDMuMDU1IDYuODcyIDYuOTA4IDYuOTA3aDIuNDJ2LTIuNTY2aC0yLjI5MmMtMi40MDcuMDI4LTQuMzgtMS44NjYtNC40MDgtNC4yMy0uMDI5LTIuMzYyIDEuOTAxLTQuMjk4IDQuMzA4LTQuMzI2aC4xYzIuNDA3IDAgNC4zNTggMS45MTUgNC4zNjUgNC4yNzh2Ni4zMDVjMCAyLjM0Mi0xLjk0NCA0LjI1LTQuMzIzIDQuMjc5YTQuMzc1IDQuMzc1IDAgMDEtMy4wMzMtMS4yNTJsLTEuODUxIDEuODE4QTcgNyAwIDAwMTIuMDI5IDIyaC4wOTJjMy44MDMtLjA1NiA2Ljg1OC0zLjA4MyA2Ljg3OS02LjgxNnYtNi41QzE4LjkwNyA0Ljk2MyAxNS44MTcgMiAxMi4wMzYgMnoiPjwvcGF0aD48L3N2Zz4=" width="32" height="32" alt="Groq" />
-<img src="https://cdn.simpleicons.org/claude/39FF14" width="32" height="32" alt="Claude" />
+<img src="https://cdn.simpleicons.org/langchain" width="32" height="32" alt="LangChain" />
+<img src="https://img.shields.io/badge/-Groq-0d1117?style=flat-square&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyBmaWxsPSJjdXJyZW50Q29sb3IiIGZpbGwtcnVsZT0iZXZlbm9kZCIgaGVpZ2h0PSIxZW0iIHN0eWxlPSJmbGV4Om5vbmU7bGluZS1oZWlnaHQ6MSIgdmlld0JveD0iMCAwIDI0IDI0IiB3aWR0aD0iMWVtIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjx0aXRsZT5Hcm9xPC90aXRsZT48cGF0aCBkPSJNMTIuMDM2IDJjLTMuODUzLS4wMzUtNyAzLTcuMDM2IDYuNzgxLS4wMzUgMy43ODIgMy4wNTUgNi44NzIgNi45MDggNi45MDdoMi40MnYtMi41NjZoLTIuMjkyYy0yLjQwNy4wMjgtNC4zOC0xLjg2Ni00LjQwOC00LjIzLS4wMjktMi4zNjIgMS45MDEtNC4yOTggNC4zMDgtNC4zMjZoLjFjMi40MDcgMCA0LjM1OCAxLjkxNSA0LjM2NSA0LjI3OHY2LjMwNWMwIDIuMzQyLTEuOTQ0IDQuMjUtNC4zMjMgNC4yNzlhNC4zNzUgNC4zNzUgMCAwMS0zLjAzMy0xLjI1MmwtMS44NTEgMS44MThBNyA3IDAgMDAxMi4wMjkgMjJoLjA5MmMzLjgwMy0uMDU2IDYuODU4LTMuMDgzIDYuODc5LTYuODE2di02LjVDMTguOTA3IDQuOTYzIDE1LjgxNyAyIDEyLjAzNiAyeiI%2BPC9wYXRoPjwvc3ZnPg%3D%3D&logoColor=white" height="32" alt="Groq" />
+<img src="https://cdn.simpleicons.org/claude" width="32" height="32" alt="Claude" />
 
 <br/>
 
